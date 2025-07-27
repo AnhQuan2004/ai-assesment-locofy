@@ -1,0 +1,14 @@
+{
+  "image_filename": "sample-ui.png",
+  "labels": [
+    {
+      "tag": "Button",
+      "bbox": [
+        276.1999816894531,
+        62,
+        522.1999816894531,
+        240
+      ]
+    }
+  ]
+}

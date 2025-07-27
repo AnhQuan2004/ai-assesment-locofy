@@ -1,0 +1,57 @@
+{
+  "image_filename": "sample-ui.png",
+  "iou_threshold": 0.5,
+  "summary": {
+    "Button": {
+      "ground_truth_count": 1,
+      "predicted_count": 4,
+      "true_positives": 0,
+      "false_positives": 4,
+      "false_negatives": 1,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    },
+    "Input": {
+      "ground_truth_count": 0,
+      "predicted_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    },
+    "Radio": {
+      "ground_truth_count": 0,
+      "predicted_count": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    },
+    "Dropdown": {
+      "ground_truth_count": 0,
+      "predicted_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    },
+    "overall": {
+      "ground_truth_count": 1,
+      "predicted_count": 6,
+      "true_positives": 0,
+      "false_positives": 6,
+      "false_negatives": 1,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    }
+  },
+  "details": []
+}
